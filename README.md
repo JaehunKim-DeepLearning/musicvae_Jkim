@@ -1,5 +1,9 @@
-# Groove Dataset을 활용한 MusicVAE 구현
-
-
-* Process_groove.sh -> Groove Dataset을 활용한 실험
-* Process_maestro.sh -> Maestro Dataset을 활용한 실험
+## Getting Started
+### Quick Start1 - Crate drum sample using Groove Dataset 
+```  
+./Process_groove.sh 
+```
+### Quick Start2 - Create piano sample using Maestro Dataset
+```  
+./Process_maestro.sh 
+```
